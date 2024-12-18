@@ -11,6 +11,8 @@ NOTE:
 I guess this is the second mod that counts being on v9's version now..
 first one being evadare made by Rem!
 
+Anyways have this dud here
+
 
 
 
