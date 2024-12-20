@@ -164,6 +164,8 @@
             "stayTuned": "Stay tuned!",
             "visitShop": "Visit the shop!",
             "notShared": "not shared yet",
+			"rizchannel": "My Youtube Channel!",
+			"checkRizSite": "My Website!",
             "offline": "offline",
             "createdBy": "Created by %{name}",
             "dedicatedTo": "Dedicated to %{name}",
