@@ -185,7 +185,7 @@ Anyways have this dud here
 
 
 
-           And check out the my website here!
-           [![](https://github.com/RizsimStudiosOfficial/G-Music-Port-Incredibox-0.7.0/blob/main/img/site-promo.png?raw=true)](https://sites.google.com/view/rizsimstudios-mods/choose-mod-games)
+And check out the my website here!
+[![](https://github.com/RizsimStudiosOfficial/G-Music-Port-Incredibox-0.7.0/blob/main/img/site-promo.png?raw=true)](https://sites.google.com/view/rizsimstudios-mods/choose-mod-games)
                                                                                                     
 
