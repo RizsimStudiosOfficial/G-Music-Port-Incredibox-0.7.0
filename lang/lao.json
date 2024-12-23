@@ -169,7 +169,7 @@
 			"checkRizSite": "My Website!",
             "offline": "ອອບລາຍ",
             "createdBy": "Created by %{name}",
-            "dedicatedTo": "Dedicated to %{name}",
+            "dedicatedTo": "ອຸທິດ ແກ່ %{name}",
             "inputName": "ຊື່ DJ ຂອງ ທ່ານ*",
             "inputTitle": "ຕໍາແຫນ່ງປະສົມຂອງເຈົ້າ*",
             "inputSearch": "ຊອກຫາປະສົມ",
